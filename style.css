@@ -1,0 +1,273 @@
+.logo {display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+
+}
+body {background-color: rgba(10, 61, 10, 0.681);}
+.cabecalho {text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+.titulos {
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 5vh;    
+}
+
+.card_pedro-raul {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 30px;
+    background-color: rgba(18, 35, 192, 0.51);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+        
+}
+
+.texto_pedro-raul {
+    text-align: center;
+    color: aliceblue;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 5vh;
+} 
+
+.imagem_pedro-raul:hover{
+    transform: scale(1.1);
+    margin-top: 20px;
+    margin-bottom: 40px;
+    
+   
+}
+
+.card_cano {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 30px;
+    background-color: rgba(18, 35, 192, 0.51);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.texto_cano {
+    text-align: center;
+    color: aliceblue;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 5vh;
+} 
+
+.imagem_cano:hover{
+    transform: scale(1.1);
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: center;
+}    
+    
+.card_bissoli {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 30px;
+    background-color: rgba(18, 35, 192, 0.51);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.texto_bissoli {
+    text-align: center;
+    color: aliceblue;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 5vh;
+} 
+
+.imagem_bissoli:hover{
+    transform: scale(1.1);
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+    
+.card_calleri {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 30px;
+    background-color: rgba(18, 35, 192, 0.51);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.texto_calleri {
+    text-align: center;
+    color: aliceblue;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 5vh;
+} 
+
+.imagem_calleri:hover{
+    transform: scale(1.1);
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.card_hulk {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 30px;
+    background-color: rgba(18, 35, 192, 0.51);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.texto_hulk {
+    text-align: center;
+    color: aliceblue;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 5vh;
+} 
+
+.imagem_hulk:hover{
+    transform: scale(1.1);
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.card_scarpa {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 30px;
+    background-color: rgba(18, 35, 192, 0.51);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.texto_scarpa {
+    text-align: center;
+    color: aliceblue;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 5vh;
+} 
+
+.imagem_scarpa:hover{
+    transform: scale(1.1);
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.card_arrascaeta {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 30px;
+    background-color: rgba(18, 35, 192, 0.51);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.texto_arrascaeta {
+    text-align: center;
+    color: aliceblue;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 5vh;
+} 
+
+.imagem_arrascaeta:hover{
+    transform: scale(1.1);
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.card_arias {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 30px;
+    background-color: rgba(18, 35, 192, 0.51);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.texto_arias {
+    text-align: center;
+    color: aliceblue;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 5vh;
+} 
+
+.imagem_arias:hover{
+    transform: scale(1.1);
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.card_artur {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 30px;
+    background-color: rgba(18, 35, 192, 0.51);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.texto_artur {
+    text-align: center;
+    color: aliceblue;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 5vh;
+} 
+
+.imagem_artur:hover{
+    transform: scale(1.1);
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.card_dudu {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 30px;
+    background-color: rgba(18, 35, 192, 0.51);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.texto_dudu {
+    text-align: center;
+    color: aliceblue;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 5vh;
+} 
+
+.imagem_dudu:hover{
+    transform: scale(1.1);
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
